@@ -1,1 +1,1 @@
-# Dit wordt de besturing van de root
+# Dit wordt de besturing van de robot
